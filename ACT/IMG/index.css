@@ -1,0 +1,162 @@
+body{font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header{
+
+    color: rgb(176, 145, 105) ;
+    font-size: 50px;
+    width: min-content;
+    height: auto;
+    text-align: center;
+
+
+}
+
+.Iconos0{
+
+    width: 30px;
+    padding: 0px 0px 0px 1800px;
+        
+}
+
+
+.Contenedor0{
+
+    background-color: rgb(176, 145, 105);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 25px 50px 25px 50px;
+
+}
+    
+
+.Contenedor1{
+
+    background-image: url(/ACT/IMG/portada.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+    
+    line-height : 10px;
+    color: white;
+    text-align: center;
+    
+
+}
+
+.Iconos1{
+
+    width: 280px;
+}
+
+.RS{
+
+    width: 50px;
+    flex-direction: row;
+    display: flex;
+
+}
+
+#pp1{
+
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+#pp2{
+
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+#pp3{
+
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: red;
+}
+
+
+H3{
+    color: red;
+}
+
+
+.Reco{
+    flex-direction: row;
+    display: flex;  
+    
+
+}
+
+.Libro{
+    flex-direction: row;
+    display: flex;  
+
+}
+
+
+
+.Contenedor3{
+
+
+    line-height : 25px;
+    text-align: left;
+    flex-direction: row;
+    display: flex;
+    
+    
+}
+
+.Contenedor3 img{
+
+    width: 50%;
+    height: 50%;
+
+    
+}
+
+.IZQ{
+
+    padding-top: 120px;
+}
+
+.Iconos{
+
+    width: 15px;
+
+}
+
+footer{
+
+    background-color: rgb(176, 145, 105) ;
+    flex-direction: row;
+    display: flex;  
+    color: white;
+
+    
+}
+
+.F1{
+
+    text-align: left;
+    flex-direction: column;
+    display: flex;  
+}
+
+.F5{
+
+    text-align: left;
+    flex-direction: row;
+    display: flex;  
+}
